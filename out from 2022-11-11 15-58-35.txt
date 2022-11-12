@@ -1,0 +1,2 @@
+"00 control" max level = -31.172176, corresponding freq = 2325.585938.
+"01 omicron" max level = -25.857971, corresponding freq = 1335.058594.
