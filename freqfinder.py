@@ -33,5 +33,3 @@ for file in files:
 		outfile.write(f"\"{experiment}\" max level = {max_level}, corresponding freq = {corr_freq}.\n")
 
 outfile.close()
-
-
